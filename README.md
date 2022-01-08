@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mohit
-- ;) I'm Currently a B-tech (Computer Science) student in Amity University Gwalior
+- ;) I'm Currently a B-tech (Computer Science) 2nd year, student in Amity University Gwalior
 - 👀 I’m interested in Open Source Contribution
 - 🌱 I’m currently learning Data Structures with JAVA, Web Development,OOPS
 - 📫 How to reach me email-mohitsinghrathore061@gamil.com
