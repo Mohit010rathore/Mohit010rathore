@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Mohit
-- ;) I'm Currently a B-tech (Computer Science) 2nd year, student in Amity University Gwalior
-- 👀 I’m interested in Open Source Contribution
-- 🌱 I’m currently learning Data Structures with JAVA, Web Development,OOPS
-- 📫 How to reach me email-mohitsinghrathore061@gamil.com
+- ;) I'm a final year B-tech (Computer Science) student at Amity University Gwalior
+- 👀 Java 
+- 🌱 A Full Stack Web Developer(MERN), with excellent programming skills
+- 📫 How to reach me email-mohitsinghrathore051@gamil.com
 - LeetCode Profile :- https://leetcode.com/mohitrathore/
 
 <!---
